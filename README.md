@@ -14,7 +14,7 @@ To prepare you, this unit is structured unlike any other unit. Instead of being 
 
 During this time, you are expected to deliver three applications (each in their own github repo):
   * Personal Portfolio Website
-  * Rails Fullstack Application
+  * Rails CRUD Application
   * Independent Application of your choosing
 
 See below for more details!
@@ -23,7 +23,7 @@ See below for more details!
 
 ---
 
-- **Rails Fullstack Application**: You will receive instructions during Unit 4 lectures to complete this application. (**due on 06/11/2017**)
+- **Rails CRUD Application**: You will receive instructions during Unit 4 lectures to complete this application. (**due on 06/11/2017**)
 
 - **Personal Portfolio Website**, which must include:
   * 4-5 Completed Projects with links to the github/deployed version
