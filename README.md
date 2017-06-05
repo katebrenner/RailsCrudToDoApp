@@ -23,7 +23,7 @@ See below for more details!
 
 ---
 
-- **Rails CRUD Application**: You will receive instructions during Unit 4 lectures to complete this application. (**due on 06/11/2017**)
+- **Rails CRUD Application** with at least 2 tables in your database. (**due on 06/11/2017**)
 
 - **Personal Portfolio Website**, which must include:
   * 4-5 Completed Projects with links to the github/deployed version
