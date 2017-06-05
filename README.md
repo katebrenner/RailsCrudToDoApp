@@ -21,8 +21,6 @@ See below for more details!
 
 ### Required Applications:
 
----
-
 - **Rails CRUD Application** with at least 2 tables in your database. (**due on 06/11/2017**)
 
 - **Personal Portfolio Website**, which must include:
