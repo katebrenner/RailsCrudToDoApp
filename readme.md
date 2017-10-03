@@ -34,7 +34,7 @@ See below for more details!
 
 #### Accountability buddy:
 In our experience, we found that it's really helpful to have a partner that would keep you accountable and stay on track.
-Hence, we paired you up! Here is the [document](https://git.generalassemb.ly/wdi-nyc-dresselhaus/project-04-portfolio/master/accountability.md) with pairs.
+Hence, we paired you up! Here is the [document](https://git.generalassemb.ly/wdi-nyc-dresselhaus/project-04-portfolio/blob/master/accoutability.md) with pairs.
 
 Meet with each other every morning and do a mini stand up and answer the questions: 
 * What have you accomplished yesterday?
