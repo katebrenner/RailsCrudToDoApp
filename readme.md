@@ -22,7 +22,7 @@ See below for more details!
 ### Required Applications:
 
 1.  Do these ASAP!!! 
-    * **Rails CRUD Application** _with at least 2 tables_ in your database. (**due on 10/04/2017**)
+    * **Rails CRUD Application** _with at least 2 related models_ in your database. (**due on 10/04/2017**)
     * **Personal Portfolio Website**(suggested due date 10/10/2017), which must include:
       * 4-5 Completed Projects with links to the github/deployed version
       * Be under a professional domain name
@@ -33,8 +33,8 @@ See below for more details!
 > Note: The aim for the final project is to build something that will push you. Try to think of a project that interests you. The requirements are fairly relaxed (e.g. you can use any tech stack you want). A typical project would be a full stack CRUD app that uses one front-end framework and one 3rd party API.
 
 #### Accountability buddy:
-In our experience, we found that it's really helpful to have a partner that would kee you accountable and stay on track.
-Hence, we paired you up! You fill find a document with pairs in this repo.
+In our experience, we found that it's really helpful to have a partner that would keep you accountable and stay on track.
+Hence, we paired you up! Here is the [document](https://git.generalassemb.ly/wdi-nyc-dresselhaus/project-04-portfolio/master/accountability.md) with pairs.
 
 Meet with each other every morning and do a mini stand up and answer the questions: 
 * What have you accomplished yesterday?
