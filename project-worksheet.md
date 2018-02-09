@@ -17,8 +17,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ### Personal Final Project 
 
-|  Day | Deliverable | Notes
-|---|---| ---|
+|  Day | Deliverable | 
+|---|---|
 |Day 1: Fri 2/16 | Wireframes, Priority Matrix, Schedule, Time Estimates |
 |Day 2: Tue 2/20 | Pseudocode\Actual code\|
 |Day 3: Wed 2/21 | Work on project  |
