@@ -25,7 +25,7 @@ See below for more details!
 ### Required Applications:
 
 1.  Do these ASAP!!! 
-    * **Rails CRUD Application** _with at least 2 related models_ in your database. (**due on Fri, 2/19**)
+    * **Rails CRUD Application** _with at least 2 related models_ in your database. (**due on Fri, 2/14**)
     * **Personal Portfolio Website**(suggested due date 10/10/2017), which must include:
       * 4-5 Completed Projects with links to the github/deployed version
       * Be under a professional domain name
