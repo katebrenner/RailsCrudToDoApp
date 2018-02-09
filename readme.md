@@ -15,7 +15,7 @@ Guess what? It is the final unit of WDI before you officially cross the threshol
 
 To prepare you, this unit is structured unlike any other unit. Instead of being assigned daily homework, you will spend the next two weeks building, tweaking, and deploying applications (new and old).
 
-During this time, you are expected to deliver three applications (**each in their own github repo**):
+During this time, you are expected to deliver three applications (**each in their own git repo**):
   * Personal Portfolio Website
   * Rails CRUD Application
   * Independent Application of your choosing
