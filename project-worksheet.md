@@ -19,14 +19,14 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable 
 |---|---| ---|
-|Day 1: Fri 2/16 | Wireframes, Priority Matrix, Schedule, Time Estimates 
-|Day 2: Tue 2/20 | Pseudocode\Actual code\
-|Day 3: Wed 2/21 | Work on project  
-|Day 4: Thur 2/22 | Work on project  
-|Day 5: Fri 2/23 | Work on project  
-|Day 6: Mon 2/26 | Working Prototype with full commit to master 
-|Day 7: Tue 2/27 | Final edits...branching first 
-|Day 8: Wed 2/28 | Project Presentations 
+|Day 1: Fri 2/16 | Wireframes, Priority Matrix, Schedule, Time Estimates |
+|Day 2: Tue 2/20 | Pseudocode\Actual code\|
+|Day 3: Wed 2/21 | Work on project  |
+|Day 4: Thur 2/22 | Work on project  |
+|Day 5: Fri 2/23 | Work on project  |
+|Day 6: Mon 2/26 | Working Prototype with full commit to master |
+|Day 7: Tue 2/27 | Final edits...branching first |
+|Day 8: Wed 2/28 | Project Presentations |
 
 ## Project Description
 
