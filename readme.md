@@ -4,10 +4,12 @@
 
 ![](./readme-assets/graduate.jpg)
 
-### Unit Four Here We Come!
+### First Things First
 
+Fork and clone this repo as you will be making a pull request with links to the Rails app, Final Project and Portofio site. 
 ---
 
+### Unit Four Here We Come!
 Guess what? It is the final unit of WDI before you officially cross the threshold into the tech industry! Holy cow!
 
 To prepare you, this unit is structured unlike any other unit. Instead of being assigned daily homework, you will spend the next two weeks building, tweaking, and deploying applications (new and old).
