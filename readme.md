@@ -25,14 +25,14 @@ See below for more details!
 ### Required Applications:
 
 1.  Do these ASAP!!! 
-    * **Rails CRUD Application** _with at least 2 related models_ in your database. (**due on 10/04/2017**)
+    * **Rails CRUD Application** _with at least 2 related models_ in your database. (**due on Fri, 2/19**)
     * **Personal Portfolio Website**(suggested due date 10/10/2017), which must include:
       * 4-5 Completed Projects with links to the github/deployed version
       * Be under a professional domain name
       * Mobile First Design
       * Clean Commented Code
 
-2. **Independent Application**: Using any pattern and tech stack of your choice, create an application that can be used as a portfolio piece and presented during our cohort **final project science fair**! (**Approval times TBD**)
+2. **Independent Application**: Using any pattern and tech stack of your choice, create an application that can be used as a portfolio piece and presented during our cohort **final project science fair**! (**Wed Feb 28th 12:30 - 1:30**)
 > Note: The aim for the final project is to build something that will push you. Try to think of a project that interests you. The requirements are fairly relaxed (e.g. you can use any tech stack you want). A typical project would be a full stack CRUD app that uses one front-end framework and one 3rd party API.
 
 #### Squad Leads:
