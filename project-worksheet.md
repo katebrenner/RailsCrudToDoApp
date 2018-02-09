@@ -8,7 +8,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ### Rails App Project
 
-|  Day | Deliverable | 
+|  Day | Deliverable | Notes
 |---|---| ---|
 |Day 1: Fri 2/9 | Wireframes, Priority Matrix, Schedule, Time Estimates |
 |Day 2: Mon  2/12 | Lectures: (AM) Rails As An API  (PM) React on Rails |
@@ -17,7 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ### Personal Final Project 
 
-|  Day | Deliverable | Approval From Squad Lead
+|  Day | Deliverable | Notes
 |---|---| ---|
 |Day 1: Fri 2/16 | Wireframes, Priority Matrix, Schedule, Time Estimates |
 |Day 2: Tue 2/20 | Pseudocode\Actual code\|
