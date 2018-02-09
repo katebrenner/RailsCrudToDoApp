@@ -35,11 +35,9 @@ See below for more details!
 2. **Independent Application**: Using any pattern and tech stack of your choice, create an application that can be used as a portfolio piece and presented during our cohort **final project science fair**! (**Approval times TBD**)
 > Note: The aim for the final project is to build something that will push you. Try to think of a project that interests you. The requirements are fairly relaxed (e.g. you can use any tech stack you want). A typical project would be a full stack CRUD app that uses one front-end framework and one 3rd party API.
 
-#### Accountability buddy:
-In our experience, we found that it's really helpful to have a partner that would keep you accountable and stay on track.
-Hence, we paired you up! Here is the [document](https://git.generalassemb.ly/wdi-nyc-dresselhaus/project-04-portfolio/blob/master/accoutability.md) with pairs.
+#### Squad Leads:
 
-Meet with each other every morning and do a mini stand up and answer the questions: 
+You will meet with your squad lead every morning and do check in and answer the questions: 
 * What have you accomplished yesterday?
 * What do you plan to deliver by the end of the day?
 * What a some challenges? And what resources are needed to overcome them? 
