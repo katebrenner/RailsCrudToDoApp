@@ -3,3 +3,7 @@
 <%= @tasks.complete_by %>
 <%= @priorities.priority %>
 <%= link_to "Back to all tasks", tasks_path %>
+
+<%= form_for @tasks, html: {method: "delete"} do |f| %>
+  <%= f.submit "Delete #{@tasks.name}?" %>
+<% end %>

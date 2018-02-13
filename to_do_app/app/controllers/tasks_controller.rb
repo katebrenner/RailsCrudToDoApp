@@ -11,9 +11,9 @@ class TasksController < ApplicationController
     @priorities = Priority.all
   end
   def create
-    @task = Task.new(name: params[:name], details: params[:details], complete_by: params[:complete_by], priority_id: params[:priority_id])
-    if @task.save
-      redirect_to taks_path(@task)
+    @task = Task.new(task_params)
+    if @task.save!
+      redirect_to task_path(@task)
     else
       render :new
     end
@@ -27,6 +27,11 @@ class TasksController < ApplicationController
       render :edit
     end
   end
+  def destroy
+   @task = Task.find(params[:id])
+   @task.destroy
+   redirect_to tasks_path
+ end
   private
   def task_params
   params.require(:task).permit(:name, :details, :complete_by, :priority_id)
