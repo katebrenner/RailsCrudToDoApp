@@ -1,0 +1,9 @@
+<%= form_for @task do |f| %>
+  <%= f.text_field :name, placeholder: "Name" %>
+  <%= f.text_field :details, placeholder: "details" %>
+  <%= f.text_field :complete_by, placeholder: "When do you want to do this by?" %>
+  <%= f.collection_select :priority_id, Priority.order(:priority), :id, :priority%>
+  <%= f.submit "ADD IT betch"%>
+<% end %>
+
+<%= link_to "NVM changed my mind", tasks_path %>

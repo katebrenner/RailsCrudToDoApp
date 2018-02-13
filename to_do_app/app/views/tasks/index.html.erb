@@ -1,0 +1,9 @@
+
+<% @tasks.each_with_index do |task, i| %>
+  <h2> <%= link_to "#{task[:name]}", task_path(id: i) %></h2>
+  <h3> <%= task[:details] %> </h3>
+  <h3> <%= task[:complete_by] %> </h3>
+<% end %>
+</ul>
+
+<%= link_to "EEEYYYYY NEW TO DO", new_task_path %>
