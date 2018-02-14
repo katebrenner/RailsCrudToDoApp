@@ -4,7 +4,7 @@ class TasksController < ApplicationController
   end
   def show
     @tasks = Task.find(params[:id])
-    @priorities = Priority.find(params[:id])
+    @priorities = Priority.find(@tasks[:priority_id])
   end
   def new
     @task = Task.new
@@ -34,6 +34,6 @@ class TasksController < ApplicationController
  end
   private
   def task_params
-  params.require(:task).permit(:name, :details, :complete_by, :priority_id)
+  params.require(:task).permit(:name, :details, :completeby, :priority_id)
 end
 end

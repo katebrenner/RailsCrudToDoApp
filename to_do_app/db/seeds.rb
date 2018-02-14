@@ -13,6 +13,7 @@ high = Priority.create!(priority: '!!!')
 
 puts "#{Priority.count} priorities created!"
 
-Task.create!(name: 'car', details: 'wash the car', complete_by: "3/22/2018", priority_id: 1)
+Task.create!(name: 'car', details: 'wash the car', completeby: "3/22/2018", priority_id: 1)
+Task.create!(name: 'make bed', details: 'its rly messy', completeby: "today", priority_id: 1)
 
 puts "#{Task.count} tasks create"

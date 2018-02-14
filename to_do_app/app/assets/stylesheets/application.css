@@ -17,8 +17,52 @@
  body {
    text-align: center;
    font-family: 'Arimo', sans-serif;
+   background: url('http://80skiparty.com/wp-content/uploads/2018/01/coolest-repeat-background-mint-stripes-1-2-inch-vertical-wallpaper-sierra-repeat-background.png');
  }
 
  .header {
    font-family: 'Lobster', cursive;
+   font-size: 50px;
+ }
+
+ a {
+   text-decoration: none;
+   color: black;
+   transition: color 1s;
+ }
+
+index{
+   font-size: 50px;
+ }
+
+ a:hover {
+   color: #e8d1fd;
+ }
+
+ ol {
+  text-align: center;
+  list-style-position: inside;
+  padding-left: 0px;
+ }
+
+ .toDo {
+   font-family: 'Lobster', cursive;
+   font-size: 50px;
+ }
+
+ .details {
+   font-size: 30px;
+ }
+ .show {
+   font-size: 20px;
+ }
+
+ form {
+   text-align: center;
+ }
+
+ input {
+   display: block;
+   text-align: center;
+   margin: 0 auto;
  }

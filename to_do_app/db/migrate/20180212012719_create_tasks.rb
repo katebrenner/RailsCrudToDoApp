@@ -3,7 +3,7 @@ class CreateTasks < ActiveRecord::Migration[5.1]
     create_table :tasks do |t|
       t.string :name
       t.string :details
-      t.date :complete_by
+      t.string :completeby
       # links the 2 tables
       t.integer :priority_id, index: true
 

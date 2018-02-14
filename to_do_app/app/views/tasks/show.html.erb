@@ -1,9 +1,9 @@
-<h1><%= @tasks.name %></h1>
-<%= @tasks.details %>
-<%= @tasks.complete_by %>
-<%= @priorities.priority %>
-<%= link_to "Back to all tasks", tasks_path %>
+<h1>to do item: <%= @tasks.name %></h1>
+<p class= 'show'>details: <%= @tasks.details %> </p>
+<p class= 'show'>complete by: <%= @tasks.completeby %> </p>
+<p class= 'show'>priority: <%= @priorities.priority %> </p>
+<p class= 'show'><%= link_to "Back to all tasks", tasks_path %></p>
 
 <%= form_for @tasks, html: {method: "delete"} do |f| %>
-  <%= f.submit "Delete #{@tasks.name}?" %>
+  <%= f.submit "Delete task #{@tasks.name}?" %>
 <% end %>

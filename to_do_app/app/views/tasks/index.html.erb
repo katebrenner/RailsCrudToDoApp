@@ -1,9 +1,10 @@
 <h1 class='header'>V Original To Do List</h1>
+<ol>
 <% @tasks.each do |task| %>
-  <h2> <%= link_to "#{task[:name]}", task_path(id: task.id) %></h2>
-  <h3> <%= task[:details] %> </h3>
-  <h3> <%= task[:complete_by] %> </h3>
+  <li class= 'toDo index'> <%= link_to "#{task[:name]}", task_path(id: task.id) %></li>
+  <p class ='details index'> details: <%= task[:details] %> </p>
+  <p class ='completeby index'>complete by: <%= task[:completeby] %> </p>
 <% end %>
-</ul>
-
-<%= link_to "EEEYYYYY NEW TO DO", new_task_path %>
+</ol>
+<br>
+<%= link_to 'EEEYYYYY CLICK HERE FOR NEW TO DO', new_task_path %>
