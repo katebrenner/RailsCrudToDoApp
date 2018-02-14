@@ -7,6 +7,9 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
     <link href="https://fonts.googleapis.com/css?family=Arimo|Lobster" rel="stylesheet">
+    <!-- the below tag is to prevent the fadeIn animation from occurint twice -
+    once when the cache preview is shown, and once after the page is actually loaded. -->
+    <meta name="turbolinks-cache-control" content="no-preview">
   </head>
 
   <body>
