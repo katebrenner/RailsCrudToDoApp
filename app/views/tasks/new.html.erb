@@ -3,7 +3,7 @@
   <%= f.text_field :details, placeholder: "details" %>
   <%= f.text_field :completeby, placeholder: "When do you want to do this by?" %>
   Priority: <%= f.collection_select :priority_id, Priority.order(:priority), :id, :priority%>
-  <%= f.submit "ADD IT betch"%>
+  <%= f.submit "ADD IT!"%>
 <% end %>
 
 <%= link_to "NVM changed my mind", tasks_path %>

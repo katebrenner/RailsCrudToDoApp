@@ -1,4 +1,4 @@
-<h1 class='header'>V Original To Do List</h1>
+<h1 class='header'>The Most Basic To Do List</h1>
 <ol>
 <% @tasks.each do |task| %>
   <li class= 'toDo index'> <%= link_to "#{task[:name]}", task_path(id: task.id) %></li>
